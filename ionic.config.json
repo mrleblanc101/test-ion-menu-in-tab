@@ -1,0 +1,8 @@
+{
+  "name": "test-ion-menu-in-tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "83cedf1d"
+}

@@ -47,7 +47,6 @@ import {
     IonItem,
     IonLabel,
     IonButtons,
-    IonButton,
 } from "@ionic/vue";
 import ExploreContainer from "@/components/ExploreContainer.vue";
 </script>
